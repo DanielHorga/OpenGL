@@ -1,0 +1,32 @@
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.dll.config
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe.config
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.pdb
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.dll
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.dll
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.xml
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.xml
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.AssemblyReference.cache
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.Properties.Resources.resources
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CoreCompileInputs.cache
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CopyComplete
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.exe
+G:\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.pdb
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.dll.config
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe.config
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.pdb
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.dll
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.xml
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.AssemblyReference.cache
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.Properties.Resources.resources
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CopyComplete
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.exe
+C:\Users\dani_\Downloads\Tema EGC\Tema EGC\OpenTK_lab11\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.pdb
